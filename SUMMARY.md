@@ -7,7 +7,7 @@
 
 * [Workspace Page](workspace/workspace-page/README.md)
   * [Workspace Subpage](workspace/workspace-page/workspace-subpage.md)
-* [Workspace](workspace/workspace.md)
+* [Markdown Workspace](workspace/markdown-workspace.md)
 
 ## Staging Area
 

@@ -1,3 +1,3 @@
 # Workspace Page
 
-Examople of Page.
+Example of Page.
